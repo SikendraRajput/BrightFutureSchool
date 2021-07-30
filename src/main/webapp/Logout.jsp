@@ -31,7 +31,7 @@ input{
 }
 </style>
 <body>
-<form action="Index.html" method="post">
+<form action="index.html" method="post">
 <% 
 
 session.invalidate();
