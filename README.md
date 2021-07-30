@@ -1,0 +1,2 @@
+# BrightFutureSchool
+School management
